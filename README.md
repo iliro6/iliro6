@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm ilia</h1>
-- 🔭 I’m currently working on [a quiz app](https://github.com/iliro6/quiz)
-- 🌱 I’m currently learning **Jest , Redux**
-- 💬 Ask me about **React **
+- 🔭 I’m currently working on [a quiz app](https://github.com/iliro6/quiz) </br>
+- 🌱 I’m currently learning **Jest , Redux** </br>
+- 💬 Ask me about **React** </br>
 - 📫 How to reach me **roozbanilia@gmail.com**
 
 <div> <a href="https://twitter.com/IRoozban" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
